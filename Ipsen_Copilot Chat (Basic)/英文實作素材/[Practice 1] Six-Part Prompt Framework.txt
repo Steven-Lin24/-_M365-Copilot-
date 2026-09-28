@@ -1,0 +1,29 @@
+﻿The Six-Part Prompt Framework
+
+1. Task Objectives: Define the work to be completed and its purpose
+
+"What specific outcome do you ultimately want AI to help you achieve?"
+
+---
+2. Background Context: Provide the necessary information and situation
+
+"What background does AI need to think like an expert?"
+
+---
+3. Success Criteria: Define what makes a good answer
+
+"What qualities must a perfect answer have?"
+
+---
+4. Result Definition: Clarify what the final deliverable should include
+"Which components are essential to the structure of the output?"
+
+---
+5. Boundaries and Limitations: Specify what must not be done and how to handle exceptions
+
+"What boundaries must never be crossed? How should unknowns be handled?"
+
+---
+6. Output Format: Specify the language, length, style and structure
+
+"What visual format or tone would you like the result to use?"
